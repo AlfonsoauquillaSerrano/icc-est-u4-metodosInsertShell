@@ -11,7 +11,9 @@ public class Insertion {
         int iteraciones= 0;
         int cambios= 0;
 
-        System.out.println(Arrays.toString(copia1));
+            System.out.println("METODO INSERT");
+            System.out.println("Arreglo Original");
+            System.out.println(Arrays.toString(copia1));
         if (ad) {
                 for (int i=1; i< copia1.length;i++){
                     iteraciones ++;

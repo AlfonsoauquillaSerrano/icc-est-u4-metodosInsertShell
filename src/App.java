@@ -30,7 +30,7 @@ public class App {
                      System.out.println("Ascendente");
                      opcion3= leer.nextBoolean();
                     
-                     int [] arreglo1 = {2,0,-15,10,20,-3,-5,7};
+                     int [] arreglo1 = {12,-7,25,0,-15,33,19,-22,5,48,-3};
                     
 
                      System.out.println("RESULTADOS");
